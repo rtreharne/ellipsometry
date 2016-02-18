@@ -13,4 +13,6 @@ Time: 1300 - 1700.
 
 <h2>Notes</h2>
 
+Sputtered SiO2 films on a selection of substrates.
+
 All data files containing three spectra at 50, 60, 70 deg were for samples on OptiWhite glass and were made without use of focusing probes (spot size ~ 4 mm). All data files containing single spectra at 60 deg were on wafer substrates and were made with use of focusing probes (spot size ~ 1mm)
