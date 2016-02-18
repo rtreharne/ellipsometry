@@ -1,7 +1,10 @@
 <h1>Details</h1>
 
 Equipment: M2000-UI, Dept. EEE, 1st floor.
+
+
 Supervised by: <a href="mailto:sgdweera@liverpool.ac.uk">Ayendra Weerakkody</a>
+
 User: R Treharne, J Swallow.
 
 Date: 17th Feb 2016.
